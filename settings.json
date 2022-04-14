@@ -1,0 +1,9 @@
+{
+	"PORT": "8000",
+	"MONGO_USER": "Legedy",
+	"MONGO_PASS": "8S5FcH0bLOYtuSt8",
+	"AUTH": {
+		"login": "admin",
+		"password": "NVNS58kx5sSQNtTx"
+	}
+}
