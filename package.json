@@ -4,5 +4,8 @@
 		"express": "^4.17.3",
 		"express-basic-auth": "^1.2.1",
 		"mongoose": "^6.2.10"
+	},
+	"scripts": {
+		"start": "node server.js"
 	}
 }
